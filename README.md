@@ -1,2 +1,2 @@
 # CalculadoraJava
- Uma Calculadora Ssimples em Java
+ Uma Calculadora simples em Java
